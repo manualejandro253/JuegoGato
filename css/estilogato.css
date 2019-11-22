@@ -1,0 +1,22 @@
+.boton
+{
+    width:50px;
+    height: 50px;
+    display: inline-block;
+}
+.tablero
+{
+    background-color: khaki;;
+}
+.cuerpo
+{
+    background-color: moccasin;
+}
+h1
+{
+    background-color: khaki;
+}
+body
+{
+    background-color: lightgreen;
+}
